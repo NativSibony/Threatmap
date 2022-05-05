@@ -44,5 +44,27 @@
   },
   "engines": {
     "node": ">=12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativSibony/Threatmap.git"
+  },
+  "keywords": [
+    "threatmap",
+    "threat",
+    "analysis",
+    "threattree",
+    "tree",
+    "map",
+    "threat map",
+    "threat tree",
+    "link",
+    "threat analysis",
+    "link analysis"
+  ],
+  "author": "Nativ Sibony",
+  "bugs": {
+    "url": "https://github.com/NativSibony/Threatmap/issues"
+  },
+  "homepage": "https://github.com/NativSibony/Threatmap#readme"
 }
