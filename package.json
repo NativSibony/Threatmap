@@ -1,5 +1,5 @@
 {
-  "name": "threatmap",
+  "name": "vue-threatmap",
   "version": "0.0.1",
   "description": "",
   "main": "dist/threatmap.ssr.js",
